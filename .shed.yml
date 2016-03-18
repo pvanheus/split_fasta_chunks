@@ -1,0 +1,7 @@
+name: split_fasta_chunks
+owner: sanbi-uwc
+description: Split a FASTA file into a number of chunks (as a dataset collection)
+remote_repository_url: https://github.com/pvanheus/split_fasta_chunks
+type: unrestricted
+categories:
+  - Fasta Manipulation
